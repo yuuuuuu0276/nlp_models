@@ -1,3 +1,4 @@
+## This is from the school project
 # CS 4740 Fa'23 HW4: Seagull
 
 Generating humorous captions from scene descriptions using transformer-based large language models. The documentation
