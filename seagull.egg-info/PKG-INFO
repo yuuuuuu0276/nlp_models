@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: seagull
+Version: 1.0
+Summary: a library for generating humorous captions from scene descriptions
+Home-page: https://github.coecis.cornell.edu/cs4740/hw4-fa23
+Author: Tushaar Gangavarapu, Darren Key, Logan Kraver, Lionel Tan, Pun Chaixanien, Kai Horstmann, Dave Jung, Aaishi Uppuluri
+Author-email: tg352@cornell.edu (Tushaar Gangavarapu)
+Requires-Python: >=3.9
