@@ -1,4 +1,5 @@
-## This is from the school project
+## This project is a project from Cornell University CS 4740. Below is copied from the Cornell CS 4740.
+---
 # CS 4740 Fa'23 HW4: Seagull
 
 Generating humorous captions from scene descriptions using transformer-based large language models. The documentation
